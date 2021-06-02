@@ -1,4 +1,4 @@
-package com.appsxone.codelabsdemo.activity;
+package com.asadrao.codelabsdemo.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.appsxone.codelabsdemo.R;
+import com.asadrao.codelabsdemo.R;
 
 public class MainActivity extends AppCompatActivity {
     Button btnConverter, btnNews;

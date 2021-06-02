@@ -1,4 +1,4 @@
-package com.appsxone.codelabsdemo.activity;
+package com.asadrao.codelabsdemo.activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,9 +11,9 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
 
-import com.appsxone.codelabsdemo.R;
-import com.appsxone.codelabsdemo.adapter.NewsAdapter;
-import com.appsxone.codelabsdemo.model.NewsModel;
+import com.asadrao.codelabsdemo.R;
+import com.asadrao.codelabsdemo.adapter.NewsAdapter;
+import com.asadrao.codelabsdemo.model.NewsModel;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 

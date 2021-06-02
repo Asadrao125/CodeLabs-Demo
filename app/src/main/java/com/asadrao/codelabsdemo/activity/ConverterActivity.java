@@ -1,4 +1,4 @@
-package com.appsxone.codelabsdemo.activity;
+package com.asadrao.codelabsdemo.activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -15,11 +15,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
 
-import com.appsxone.codelabsdemo.R;
-import com.appsxone.codelabsdemo.adapter.ConverterAdapter;
-import com.appsxone.codelabsdemo.model.ConverterModel;
+import com.asadrao.codelabsdemo.R;
+import com.asadrao.codelabsdemo.adapter.ConverterAdapter;
+import com.asadrao.codelabsdemo.model.ConverterModel;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;

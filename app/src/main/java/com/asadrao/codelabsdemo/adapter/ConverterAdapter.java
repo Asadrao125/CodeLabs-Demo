@@ -1,6 +1,5 @@
-package com.appsxone.codelabsdemo.adapter;
+package com.asadrao.codelabsdemo.adapter;
 
-import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -10,9 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.appsxone.codelabsdemo.R;
-import com.appsxone.codelabsdemo.model.ConverterModel;
-import com.appsxone.codelabsdemo.model.NewsModel;
+import com.asadrao.codelabsdemo.R;
+import com.asadrao.codelabsdemo.model.ConverterModel;
 
 import java.util.ArrayList;
 

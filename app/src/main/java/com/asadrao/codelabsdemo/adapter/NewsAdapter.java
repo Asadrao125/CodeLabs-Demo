@@ -1,4 +1,4 @@
-package com.appsxone.codelabsdemo.adapter;
+package com.asadrao.codelabsdemo.adapter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.appsxone.codelabsdemo.model.NewsModel;
-import com.appsxone.codelabsdemo.R;
+import com.asadrao.codelabsdemo.model.NewsModel;
+import com.asadrao.codelabsdemo.R;
 
 import java.util.ArrayList;
 

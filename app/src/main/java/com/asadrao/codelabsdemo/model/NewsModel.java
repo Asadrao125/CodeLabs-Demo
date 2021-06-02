@@ -1,4 +1,4 @@
-package com.appsxone.codelabsdemo.model;
+package com.asadrao.codelabsdemo.model;
 
 public class NewsModel {
     public String id;
